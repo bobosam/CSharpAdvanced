@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\bin\Debug\Problem03.CategorizeNumbers.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\bin\Debug\Problem03.CategorizeNumbers.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\bin\Debug\Problem03.CategorizeNumbers.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\obj\Debug\Problem03.CategorizeNumbers.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\obj\Debug\Problem03.CategorizeNumbers.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem03.CategorizeNumbers\obj\Debug\Problem03.CategorizeNumbers.pdb

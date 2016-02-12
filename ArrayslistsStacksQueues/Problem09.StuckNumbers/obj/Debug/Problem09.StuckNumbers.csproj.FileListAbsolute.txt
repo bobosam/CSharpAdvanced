@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\bin\Debug\Problem09.StuckNumbers.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\bin\Debug\Problem09.StuckNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\bin\Debug\Problem09.StuckNumbers.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\obj\Debug\Problem09.StuckNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\obj\Debug\Problem09.StuckNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem09.StuckNumbers\obj\Debug\Problem09.StuckNumbers.pdb

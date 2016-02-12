@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\bin\Debug\Problem08.LegoBlocks.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\bin\Debug\Problem08.LegoBlocks.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\bin\Debug\Problem08.LegoBlocks.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\obj\Debug\Problem08.LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\obj\Debug\Problem08.LegoBlocks.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem08.LegoBlocks\obj\Debug\Problem08.LegoBlocks.pdb

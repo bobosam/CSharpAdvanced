@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\bin\Debug\Problem10.PythagoreanNumbers.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\bin\Debug\Problem10.PythagoreanNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\bin\Debug\Problem10.PythagoreanNumbers.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\obj\Debug\Problem10.PythagoreanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\obj\Debug\Problem10.PythagoreanNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem10.PythagoreanNumbers\obj\Debug\Problem10.PythagoreanNumbers.pdb

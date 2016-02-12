@@ -1,0 +1,1 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem01.SortArray\bin\Debug\Problem01.SortArray.exe.config

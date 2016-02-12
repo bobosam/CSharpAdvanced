@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem02.SortArrayUsingSelectionSort\bin\Debug\Problem02.SortArrayUsingSelectionSort.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem02.SortArrayUsingSelectionSort\bin\Debug\Problem02.SortArrayUsingSelectionSort.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem02.SortArrayUsingSelectionSort\bin\Debug\Problem02.SortArrayUsingSelectionSort.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem02.SortArrayUsingSelectionSort\obj\Debug\Problem02.SortArrayUsingSelectionSort.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem02.SortArrayUsingSelectionSort\obj\Debug\Problem02.SortArrayUsingSelectionSort.pdb

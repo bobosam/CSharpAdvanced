@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\bin\Debug\JoinLists.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\bin\Debug\JoinLists.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\bin\Debug\JoinLists.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\obj\Debug\JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\obj\Debug\JoinLists.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\JoinLists\obj\Debug\JoinLists.pdb

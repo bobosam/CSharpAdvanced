@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\bin\Debug\SortArrayOfNumbersUsingBubbleSort.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\bin\Debug\SortArrayOfNumbersUsingBubbleSort.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\bin\Debug\SortArrayOfNumbersUsingBubbleSort.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\obj\Debug\SortArrayOfNumbersUsingBubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\obj\Debug\SortArrayOfNumbersUsingBubbleSort.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exercise\ArraysListsStacksQueues\SortArrayOfNumbersUsingBubbleSort\obj\Debug\SortArrayOfNumbersUsingBubbleSort.pdb

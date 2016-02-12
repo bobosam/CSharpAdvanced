@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\bin\Debug\Problem04.SequencesOfEqualStrings.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\bin\Debug\Problem04.SequencesOfEqualStrings.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\bin\Debug\Problem04.SequencesOfEqualStrings.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\obj\Debug\Problem04.SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\obj\Debug\Problem04.SequencesOfEqualStrings.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem04.SequencesOfEqualStrings\obj\Debug\Problem04.SequencesOfEqualStrings.pdb

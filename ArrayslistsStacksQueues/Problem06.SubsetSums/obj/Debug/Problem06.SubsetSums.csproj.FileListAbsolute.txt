@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\bin\Debug\Problem06.SubsetSums.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\bin\Debug\Problem06.SubsetSums.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\bin\Debug\Problem06.SubsetSums.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\obj\Debug\Problem06.SubsetSums.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\obj\Debug\Problem06.SubsetSums.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\ArrayslistsStacksQueues\Problem06.SubsetSums\obj\Debug\Problem06.SubsetSums.pdb
