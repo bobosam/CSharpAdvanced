@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\bin\Debug\Problem04.CopyBinaryFile.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\bin\Debug\Problem04.CopyBinaryFile.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\bin\Debug\Problem04.CopyBinaryFile.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\obj\Debug\Problem04.CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\obj\Debug\Problem04.CopyBinaryFile.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem04.CopyBinaryFile\obj\Debug\Problem04.CopyBinaryFile.pdb

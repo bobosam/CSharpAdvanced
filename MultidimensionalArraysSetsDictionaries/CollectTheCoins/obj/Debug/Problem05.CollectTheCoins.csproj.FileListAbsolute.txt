@@ -1,0 +1,5 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\bin\Debug\CollectTheCoins.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\bin\Debug\CollectTheCoins.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\bin\Debug\CollectTheCoins.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\obj\Debug\CollectTheCoins.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\obj\Debug\CollectTheCoins.pdb

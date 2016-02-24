@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\bin\Debug\Problem04.SequenceInMatrix.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\bin\Debug\Problem04.SequenceInMatrix.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\bin\Debug\Problem04.SequenceInMatrix.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\obj\Debug\Problem04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\obj\Debug\Problem04.SequenceInMatrix.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem04.SequenceInMatrix\obj\Debug\Problem04.SequenceInMatrix.pdb

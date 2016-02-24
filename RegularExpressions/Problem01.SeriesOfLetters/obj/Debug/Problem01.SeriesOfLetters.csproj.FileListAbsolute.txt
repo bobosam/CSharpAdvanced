@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\bin\Debug\Problem01.SeriesOfLetters.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\bin\Debug\Problem01.SeriesOfLetters.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\bin\Debug\Problem01.SeriesOfLetters.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\obj\Debug\Problem01.SeriesOfLetters.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\obj\Debug\Problem01.SeriesOfLetters.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem01.SeriesOfLetters\obj\Debug\Problem01.SeriesOfLetters.pdb

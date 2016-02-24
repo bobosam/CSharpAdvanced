@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem04.SentenceExtractor\bin\Debug\Problem04.SentenceExtractor.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem04.SentenceExtractor\bin\Debug\Problem04.SentenceExtractor.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem04.SentenceExtractor\bin\Debug\Problem04.SentenceExtractor.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem04.SentenceExtractor\obj\Debug\Problem04.SentenceExtractor.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem04.SentenceExtractor\obj\Debug\Problem04.SentenceExtractor.pdb

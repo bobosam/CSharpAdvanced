@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\bin\Debug\MatrixShuffling.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\obj\Debug\Problem03.MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\obj\Debug\MatrixShuffling.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\MatrixShuffling\obj\Debug\MatrixShuffling.pdb

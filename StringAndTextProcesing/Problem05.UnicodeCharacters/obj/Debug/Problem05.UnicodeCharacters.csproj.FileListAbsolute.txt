@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\bin\Debug\Problem05.UnicodeCharacters.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\bin\Debug\Problem05.UnicodeCharacters.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\bin\Debug\Problem05.UnicodeCharacters.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\obj\Debug\Problem05.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\obj\Debug\Problem05.UnicodeCharacters.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem05.UnicodeCharacters\obj\Debug\Problem05.UnicodeCharacters.pdb

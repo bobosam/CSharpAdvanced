@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem05.ReverseNumber\bin\Debug\Problem05.ReverseNumber.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem05.ReverseNumber\bin\Debug\Problem05.ReverseNumber.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem05.ReverseNumber\bin\Debug\Problem05.ReverseNumber.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem05.ReverseNumber\obj\Debug\Problem05.ReverseNumber.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem05.ReverseNumber\obj\Debug\Problem05.ReverseNumber.pdb

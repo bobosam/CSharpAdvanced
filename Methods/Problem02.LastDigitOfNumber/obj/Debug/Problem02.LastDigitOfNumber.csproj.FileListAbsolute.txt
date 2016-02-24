@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\bin\Debug\Problem02.LastDigitOfNumber.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\bin\Debug\Problem02.LastDigitOfNumber.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\bin\Debug\Problem02.LastDigitOfNumber.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\obj\Debug\Problem02.LastDigitOfNumber.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\obj\Debug\Problem02.LastDigitOfNumber.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem02.LastDigitOfNumber\obj\Debug\Problem02.LastDigitOfNumber.pdb

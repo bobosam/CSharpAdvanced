@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\bin\Debug\Problem07.LettersChangeNumbers.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\bin\Debug\Problem07.LettersChangeNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\bin\Debug\Problem07.LettersChangeNumbers.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\obj\Debug\Problem07.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\obj\Debug\Problem07.LettersChangeNumbers.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem07.LettersChangeNumbers\obj\Debug\Problem07.LettersChangeNumbers.pdb

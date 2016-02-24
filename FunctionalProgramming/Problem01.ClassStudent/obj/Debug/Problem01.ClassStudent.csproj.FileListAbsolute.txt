@@ -1,0 +1,1 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\FunctionalProgramming\Problem01.ClassStudent\bin\Debug\Problem01.ClassStudent.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem06.CountSymbols\bin\Debug\Problem06.CountSymbols.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem06.CountSymbols\bin\Debug\Problem06.CountSymbols.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem06.CountSymbols\bin\Debug\Problem06.CountSymbols.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem06.CountSymbols\obj\Debug\Problem06.CountSymbols.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem06.CountSymbols\obj\Debug\Problem06.CountSymbols.pdb

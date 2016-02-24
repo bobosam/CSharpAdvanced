@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem04.FirstlargerThanNeighbours\bin\Debug\Problem04.FirstlargerThanNeighbours.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem04.FirstlargerThanNeighbours\bin\Debug\Problem04.FirstlargerThanNeighbours.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem04.FirstlargerThanNeighbours\bin\Debug\Problem04.FirstlargerThanNeighbours.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem04.FirstlargerThanNeighbours\obj\Debug\Problem04.FirstlargerThanNeighbours.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem04.FirstlargerThanNeighbours\obj\Debug\Problem04.FirstlargerThanNeighbours.pdb

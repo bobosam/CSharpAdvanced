@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\bin\Debug\Problem02.ReplaceATag.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\bin\Debug\Problem02.ReplaceATag.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\bin\Debug\Problem02.ReplaceATag.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\obj\Debug\Problem02.ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\obj\Debug\Problem02.ReplaceATag.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem02.ReplaceATag\obj\Debug\Problem02.ReplaceATag.pdb

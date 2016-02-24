@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem06.NumberCalculations\bin\Debug\Problem06.NumberCalculations.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem06.NumberCalculations\bin\Debug\Problem06.NumberCalculations.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem06.NumberCalculations\bin\Debug\Problem06.NumberCalculations.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem06.NumberCalculations\obj\Debug\Problem06.NumberCalculations.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Methods\Problem06.NumberCalculations\obj\Debug\Problem06.NumberCalculations.pdb

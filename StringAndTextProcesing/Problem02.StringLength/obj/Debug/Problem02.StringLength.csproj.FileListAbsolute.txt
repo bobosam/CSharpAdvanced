@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\bin\Debug\Problem02.StringLength.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\bin\Debug\Problem02.StringLength.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\bin\Debug\Problem02.StringLength.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\obj\Debug\Problem02.StringLength.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\obj\Debug\Problem02.StringLength.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem02.StringLength\obj\Debug\Problem02.StringLength.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\bin\Debug\Problem02.MaximalSum.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\bin\Debug\Problem02.MaximalSum.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\bin\Debug\Problem02.MaximalSum.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\obj\Debug\Problem02.MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\obj\Debug\Problem02.MaximalSum.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem02.MaximalSum\obj\Debug\Problem02.MaximalSum.pdb

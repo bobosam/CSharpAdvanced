@@ -1,0 +1,1 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\CollectTheCoins\bin\Debug\CollectTheCoins.exe.config

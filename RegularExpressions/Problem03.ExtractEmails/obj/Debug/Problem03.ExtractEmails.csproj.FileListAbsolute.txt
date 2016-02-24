@@ -1,0 +1,5 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem03.ExtractEmails\bin\Debug\Problem03.ExtractEmails.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem03.ExtractEmails\bin\Debug\Problem03.ExtractEmails.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem03.ExtractEmails\bin\Debug\Problem03.ExtractEmails.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem03.ExtractEmails\obj\Debug\Problem03.ExtractEmails.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\RegularExpressions\Problem03.ExtractEmails\obj\Debug\Problem03.ExtractEmails.pdb

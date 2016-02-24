@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\bin\Debug\Problem01.FillTheMatrix.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\obj\Debug\Problem01.FillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\bin\Debug\Problem01.FillTheMatrix.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\bin\Debug\Problem01.FillTheMatrix.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\obj\Debug\Problem01.FillTheMatrix.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem01.FillTheMatrix\obj\Debug\Problem01.FillTheMatrix.pdb

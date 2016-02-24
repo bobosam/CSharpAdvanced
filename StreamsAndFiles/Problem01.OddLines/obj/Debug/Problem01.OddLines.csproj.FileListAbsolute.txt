@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\bin\Debug\Problem01.OddLines.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\bin\Debug\Problem01.OddLines.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\bin\Debug\Problem01.OddLines.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\obj\Debug\Problem01.OddLines.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\obj\Debug\Problem01.OddLines.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem01.OddLines\obj\Debug\Problem01.OddLines.pdb

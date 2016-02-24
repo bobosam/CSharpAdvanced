@@ -1,0 +1,5 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem07.Phonebook\bin\Debug\Problem07.Phonebook.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem07.Phonebook\bin\Debug\Problem07.Phonebook.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem07.Phonebook\bin\Debug\Problem07.Phonebook.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem07.Phonebook\obj\Debug\Problem07.Phonebook.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem07.Phonebook\obj\Debug\Problem07.Phonebook.pdb

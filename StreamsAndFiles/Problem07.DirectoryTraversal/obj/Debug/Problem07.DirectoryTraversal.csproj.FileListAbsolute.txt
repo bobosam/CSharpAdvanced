@@ -1,0 +1,5 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem07.DirectoryTraversal\bin\Debug\Problem07.DirectoryTraversal.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem07.DirectoryTraversal\bin\Debug\Problem07.DirectoryTraversal.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem07.DirectoryTraversal\bin\Debug\Problem07.DirectoryTraversal.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem07.DirectoryTraversal\obj\Debug\Problem07.DirectoryTraversal.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem07.DirectoryTraversal\obj\Debug\Problem07.DirectoryTraversal.pdb

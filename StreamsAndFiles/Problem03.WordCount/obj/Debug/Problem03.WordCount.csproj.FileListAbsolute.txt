@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\bin\Debug\Problem03.WordCount.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\bin\Debug\Problem03.WordCount.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\bin\Debug\Problem03.WordCount.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\obj\Debug\Problem03.WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\obj\Debug\Problem03.WordCount.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem03.WordCount\obj\Debug\Problem03.WordCount.pdb

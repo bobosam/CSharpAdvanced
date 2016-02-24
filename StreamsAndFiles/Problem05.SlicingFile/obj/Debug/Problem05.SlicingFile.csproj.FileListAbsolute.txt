@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\bin\Debug\Problem05.SlicingFile.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\bin\Debug\Problem05.SlicingFile.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\bin\Debug\Problem05.SlicingFile.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\obj\Debug\Problem05.SlicingFile.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\obj\Debug\Problem05.SlicingFile.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem05.SlicingFile\obj\Debug\Problem05.SlicingFile.pdb

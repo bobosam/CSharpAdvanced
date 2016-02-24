@@ -1,0 +1,5 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem08.NightLife\bin\Debug\Problem08.NightLife.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem08.NightLife\bin\Debug\Problem08.NightLife.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem08.NightLife\bin\Debug\Problem08.NightLife.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem08.NightLife\obj\Debug\Problem08.NightLife.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\MultidimensionalArraysSetsDictionaries\Problem08.NightLife\obj\Debug\Problem08.NightLife.pdb

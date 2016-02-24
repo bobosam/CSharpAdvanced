@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\bin\Debug\Problem06.Palindromes.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\bin\Debug\Problem06.Palindromes.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\bin\Debug\Problem06.Palindromes.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\obj\Debug\Problem06.Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\obj\Debug\Problem06.Palindromes.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem06.Palindromes\obj\Debug\Problem06.Palindromes.pdb

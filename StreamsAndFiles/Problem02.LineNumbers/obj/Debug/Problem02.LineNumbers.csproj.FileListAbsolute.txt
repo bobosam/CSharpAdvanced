@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\bin\Debug\Problem02.LineNumbers.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\bin\Debug\Problem02.LineNumbers.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\bin\Debug\Problem02.LineNumbers.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\obj\Debug\Problem02.LineNumbers.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\obj\Debug\Problem02.LineNumbers.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\StreamsAndFiles\Problem02.LineNumbers\obj\Debug\Problem02.LineNumbers.pdb

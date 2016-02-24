@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\bin\Debug\Problem04.TextFilter.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\bin\Debug\Problem04.TextFilter.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\bin\Debug\Problem04.TextFilter.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\obj\Debug\Problem04.TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\obj\Debug\Problem04.TextFilter.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\StringAndTextProcesing\Problem04.TextFilter\obj\Debug\Problem04.TextFilter.pdb
