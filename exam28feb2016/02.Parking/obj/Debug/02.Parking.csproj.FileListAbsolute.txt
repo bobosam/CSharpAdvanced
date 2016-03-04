@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\bin\Debug\02.Parking.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\bin\Debug\02.Parking.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\bin\Debug\02.Parking.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\obj\Debug\02.Parking.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\obj\Debug\02.Parking.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\02.Parking\obj\Debug\02.Parking.pdb

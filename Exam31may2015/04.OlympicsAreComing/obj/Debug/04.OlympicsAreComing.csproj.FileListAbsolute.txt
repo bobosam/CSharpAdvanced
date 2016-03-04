@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.pdb

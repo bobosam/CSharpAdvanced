@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\obj\Debug\02.RadioactiveBunnies.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\bin\Debug\02.RadioactiveBunnies.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\bin\Debug\02.RadioactiveBunnies.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\bin\Debug\02.RadioactiveBunnies.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\obj\Debug\02.RadioactiveBunnies.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\02.RadioactiveBunnies\obj\Debug\02.RadioactiveBunnies.pdb

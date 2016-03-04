@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\bin\Debug\03.Numerals.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\bin\Debug\03.Numerals.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\bin\Debug\03.Numerals.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\obj\Debug\03.Numerals.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\obj\Debug\03.Numerals.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\03.Numerals\obj\Debug\03.Numerals.csprojResolveAssemblyReference.cache

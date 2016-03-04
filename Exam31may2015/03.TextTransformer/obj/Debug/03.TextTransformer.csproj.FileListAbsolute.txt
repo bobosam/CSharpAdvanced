@@ -1,0 +1,6 @@
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\bin\Debug\03.TextTransformer.exe.config
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\bin\Debug\03.TextTransformer.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\bin\Debug\03.TextTransformer.pdb
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\obj\Debug\03.TextTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\obj\Debug\03.TextTransformer.exe
+C:\Users\Bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\03.TextTransformer\obj\Debug\03.TextTransformer.pdb

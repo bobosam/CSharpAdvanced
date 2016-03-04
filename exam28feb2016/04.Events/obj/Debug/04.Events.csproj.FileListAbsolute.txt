@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\bin\Debug\04.Events.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\bin\Debug\04.Events.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\bin\Debug\04.Events.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\obj\Debug\04.Events.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\obj\Debug\04.Events.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\04.Events\obj\Debug\04.Events.pdb

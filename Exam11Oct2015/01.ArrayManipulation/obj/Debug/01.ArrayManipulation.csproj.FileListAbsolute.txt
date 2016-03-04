@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\bin\Debug\01.ArrayManipulation.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\bin\Debug\01.ArrayManipulation.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\bin\Debug\01.ArrayManipulation.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\obj\Debug\01.ArrayManipulation.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\obj\Debug\01.ArrayManipulation.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam11Oct2015\01.ArrayManipulation\obj\Debug\01.ArrayManipulation.pdb

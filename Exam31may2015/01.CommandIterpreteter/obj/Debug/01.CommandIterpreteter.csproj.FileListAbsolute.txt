@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\bin\Debug\01.CommandIterpreteter.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\bin\Debug\01.CommandIterpreteter.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\bin\Debug\01.CommandIterpreteter.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\obj\Debug\01.CommandIterpreteter.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\obj\Debug\01.CommandIterpreteter.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\Exam31may2015\01.CommandIterpreteter\obj\Debug\01.CommandIterpreteter.pdb

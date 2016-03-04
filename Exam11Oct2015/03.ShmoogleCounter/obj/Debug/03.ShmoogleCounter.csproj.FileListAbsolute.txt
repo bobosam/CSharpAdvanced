@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\bin\Debug\03.ShmoogleCounter.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam11Oct2015\03.ShmoogleCounter\obj\Debug\03.ShmoogleCounter.pdb

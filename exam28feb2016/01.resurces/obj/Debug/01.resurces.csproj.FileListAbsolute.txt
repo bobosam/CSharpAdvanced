@@ -1,0 +1,6 @@
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\bin\Debug\01.resurces.exe.config
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\bin\Debug\01.resurces.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\bin\Debug\01.resurces.pdb
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\obj\Debug\01.resurces.csprojResolveAssemblyReference.cache
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\obj\Debug\01.resurces.exe
+c:\users\bobo\documents\visual studio 2015\Projects\AdvansedC#\exam28feb2016\01.resurces\obj\Debug\01.resurces.pdb

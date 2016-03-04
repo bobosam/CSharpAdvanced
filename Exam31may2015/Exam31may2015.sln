@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CommandIterpreteter", "01.CommandIterpreteter\01.CommandIterpreteter.csproj", "{F2EA450E-ECE6-4079-A189-3D916D94151C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TargetPractice", "02.TargetPractice\02.TargetPractice.csproj", "{2D1DAD0D-959B-4B56-BB38-CB94DF163B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TextTransformer", "03.TextTransformer\03.TextTransformer.csproj", "{63E6C991-C301-4648-A150-973EBC937C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.OlympicsAreComing", "04.OlympicsAreComing\04.OlympicsAreComing.csproj", "{D10DA469-DA37-4752-91AE-0CAAB1EE9CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EA450E-ECE6-4079-A189-3D916D94151C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EA450E-ECE6-4079-A189-3D916D94151C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EA450E-ECE6-4079-A189-3D916D94151C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EA450E-ECE6-4079-A189-3D916D94151C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1DAD0D-959B-4B56-BB38-CB94DF163B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1DAD0D-959B-4B56-BB38-CB94DF163B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1DAD0D-959B-4B56-BB38-CB94DF163B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1DAD0D-959B-4B56-BB38-CB94DF163B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63E6C991-C301-4648-A150-973EBC937C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E6C991-C301-4648-A150-973EBC937C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E6C991-C301-4648-A150-973EBC937C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E6C991-C301-4648-A150-973EBC937C53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10DA469-DA37-4752-91AE-0CAAB1EE9CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10DA469-DA37-4752-91AE-0CAAB1EE9CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10DA469-DA37-4752-91AE-0CAAB1EE9CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10DA469-DA37-4752-91AE-0CAAB1EE9CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
