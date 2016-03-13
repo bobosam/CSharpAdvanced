@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\bin\Debug\04.Population.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\bin\Debug\04.Population.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\bin\Debug\04.Population.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\obj\Debug\04.Population.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\obj\Debug\04.Population.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam19July2015\Exam19July2015\04.Population\obj\Debug\04.Population.pdb

@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\bin\Debug\01.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\obj\Debug\01.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\obj\Debug\01.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\bin\Debug\01.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\bin\Debug\01.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\01\obj\Debug\01.csprojResolveAssemblyReference.cache

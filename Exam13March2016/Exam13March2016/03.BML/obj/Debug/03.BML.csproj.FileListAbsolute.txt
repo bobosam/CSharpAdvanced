@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\bin\Debug\03.BML.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\bin\Debug\03.BML.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\bin\Debug\03.BML.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\obj\Debug\03.BML.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\obj\Debug\03.BML.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\03.BML\obj\Debug\03.BML.pdb

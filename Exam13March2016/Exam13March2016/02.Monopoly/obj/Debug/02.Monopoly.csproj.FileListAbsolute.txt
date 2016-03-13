@@ -1,0 +1,6 @@
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\bin\Debug\02.Monopoly.exe.config
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\bin\Debug\02.Monopoly.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\bin\Debug\02.Monopoly.pdb
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\obj\Debug\02.Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\obj\Debug\02.Monopoly.exe
+C:\Users\Bobo\Documents\Visual Studio 2015\Projects\AdvansedC#\Exam13March2016\Exam13March2016\02.Monopoly\obj\Debug\02.Monopoly.pdb
